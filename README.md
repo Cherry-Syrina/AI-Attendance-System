@@ -243,7 +243,7 @@ Contributions are welcome! Please open an issue first to discuss what you'd like
 
 <div align="center">
 
-Made with ❤️ using Python & Streamlit
+Made with ❤️ by Sushma Shukla
 
 *Smarter classrooms start here.*
 
