@@ -243,6 +243,8 @@ Contributions are welcome! Please open an issue first to discuss what you'd like
 
 <div align="center">
 
+Live Demo:https://attendance-snap-ai.streamlit.app/
+
 Made with ❤️ by Sushma Shukla
 
 *Smarter classrooms start here.*
