@@ -111,7 +111,7 @@ def student_screen():
     st.space()
     
     if 'show_registration' not in st.session_state:
-    st.session_state.show_registration = False
+        st.session_state.show_registration = False
     
     photo_source = st.camera_input("Position your face in the center")
 
